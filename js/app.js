@@ -1,4 +1,4 @@
-<script>
+
   /**
  * app.js — WFH System Main Application
  * ──────────────────────────────────────
@@ -1253,4 +1253,4 @@ window.addEventListener('resize', () => {
 });
 
 window.addEventListener('beforeunload', () => Camera.stopAll());
-</script>
+
